@@ -1,5 +1,5 @@
 Cool! I heard this works? can you see this??? or I guess.... 
-# Hello World?
+### Hello World?
 it is I... scaledi. 
 
 I am not sure what I want to do with my life... so I take it day by day.... thats the awesome part of life. it is what you make it. I am trying to make the most of it... make of that as you will. its fun... but also a bit of a issue, I guess, having no direction? I hope I find it soon.
