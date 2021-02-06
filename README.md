@@ -1,27 +1,5 @@
 [![My Stats](https://github-readme-stats.vercel.app/api?username=boehs&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Cool! I heard this works? can you see this??? or I guess.... 
-### Hello World?
-it is I... scaledi. 
+# Hello World!
 
-I am not sure what I want to do with my life... so I take it day by day.... thats the awesome part of life. it is what you make it. I am trying to make the most of it... make of that as you will. its fun... but also a bit of a issue, I guess, having no direction? I hope I find it soon.
-
-Until then... I am having a blast making random stuff. it may be video games, discord bots, or irl robots. its a bit unpredictable.
-
-I also enjoy skiing ⛷️, biking 🚴, gaming 🎮, camping 🏕️, and dogging 🐕... uhh... dogging 🐕?
-
-anyway... come join my journey in life with me... how you ask? thats a good question I dont have the answer to.
-<!--
-**Scaledi/Scaledi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a programmer, artist and student. my hobbies outside of the coding world mostly consist of skiing, biking, and cooing over adorable dog photos. I am also into music, video games, digital art, and photography. currently my skills are mostly in python, but I am always learning.
