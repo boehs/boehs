@@ -1,4 +1,4 @@
-[![My Stats](https://github-readme-stats.vercel.app/api?username=boehs&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=boehs&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hello World!
 
