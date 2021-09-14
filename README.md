@@ -25,5 +25,5 @@
                                      **..,..,,,////*..,*,,..,........   .....                                      
                                      ...,*.,/****,,,........,.......   ......                                      
 
-![Metrics](https://metrics.lecoq.io/boehs?template=classic&languages=1&lines=1&languages.limit=16&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=5000&languages.recent.days=180&config.timezone=America%2FNew_York&config.display=large)
+![Metrics](https://metrics.lecoq.io/boehs?template=classic&config.timezone=America%2FNew_York&config.display=large)
 
