@@ -1,0 +1,20 @@
+{
+  "name": "boehs",
+  "version": "1.0.0",
+  "description": "Hey I'm Evan",
+  "main": "index.js",
+  "bin": {
+    "about": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boehs/boehs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boehs/boehs/issues"
+  },
+  "homepage": "https://github.com/boehs/boehs"
+}
