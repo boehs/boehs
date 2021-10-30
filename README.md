@@ -25,5 +25,5 @@
                                      **..,..,,,////*..,*,,..,........   .....                                      
                                      ...,*.,/****,,,........,.......   ......                                      
 
-![Metrics](https://metrics.lecoq.io/boehs?template=classic&config.timezone=America%2FNew_York&config.display=large)
 
+`npx boehs`
