@@ -26,4 +26,4 @@
                                      ...,*.,/****,,,........,.......   ......                                      
 
 
-`npx boehs` | [boehs.io](https://boehs.io) | mailto:evan@!?
+`npx boehs` | [`boehs.io`](https://boehs.io) | `mailto:evan@!?`
