@@ -24,7 +24,5 @@
                                      **..,..,,,////*..,*,,..,........   .....                                      
                                      ...,*.,/****,,,........,.......   ......                                      
 
-**NOTICES.md**
-
-- *Please note:* while this GitHub account is active and will remain so, new projects will likely be hosted at https://sr.ht/~boehs. Anyone can contribute, regardless of if you have a account on that instance.
-- From 12-31-2021, all my commits are signed. Scrutinize unsigned commits from that point onward.
+- *Please note:* while this GitHub account is active and will remain so, new projects will likely be hosted at https://sr.ht/~boehs. Anyone can contribute, open issues, discuss, and submit changes via email, no account is needed.
+- From 12-31-2021, all my commits are *signed*. Scrutinize unsigned commits from that point onward.
