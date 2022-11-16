@@ -12,9 +12,6 @@ and if it helps you then you have made my day.
 
 read my code optimally here: https://git.sr.ht/~boehs/
 but also here: https://github.com/boehs/
-I think I take good pictures, and until a better option appears you can see them here:
-https://500px.com/taps/
-What else???
 Website: https://boehs.org
 
 -------------------------------------------------------
