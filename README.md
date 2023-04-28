@@ -1,3 +1,5 @@
+I speak lots of programming languages, but I mostly write rust and typescript. I like learning stuff about the world.
+
                                      &&&&&&&&&%%%%%%%%%%%##########(((//                                           
                                      &&&&&%%%%%%%%%%%%%%##########(##(///                                          
                                      &&&, .%&%##((/**,,,... .     ((((/(/                                          
@@ -22,8 +24,3 @@
                                      /..,.,,*///****,.,../*,.,,.,.....   ....                                      
                                      **..,..,,,////*..,*,,..,........   .....                                      
                                      ...,*.,/****,,,........,.......   ......                                      
-@MikeMcQuaid's bio says
-
-> emailing open source maintainers (including me!) directly instead of opening issues on their project is a rude thing to do
-
-I disagree. Please email me. Email me wierd stuff, cool stuff, stuff about you, a picture of your dog. Anything. Email me. Do it.
