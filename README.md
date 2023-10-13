@@ -1,4 +1,4 @@
-I speak many dialects of computer, but mostly rust and typescript. I like learning stuff about the world.
+I speak many dialects of computer, but mostly rust and typescript. I like learning stuff about the world. Do not be disillusioned by my GitHub activity. I am still very much alive.
 
                                      &&&&&&&&&%%%%%%%%%%%##########(((//                                           
                                      &&&&&%%%%%%%%%%%%%%##########(##(///                                          
