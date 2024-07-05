@@ -1,3 +1,7 @@
+I'm travelling and thus cannot keyboard until the 15th — maybe the 16th
+
+---
+
 I speak many dialects of computer, but mostly Rust, Swift, and TypeScript. I like learning stuff about the world.
 
                      &&&&&&&&&%%%%%%%%%%%##########(((//                                           
