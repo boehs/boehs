@@ -1,4 +1,4 @@
-I speak many dialects of computer, but mostly Rust, Swift, and TypeScript. I like learning stuff about the world.
+I speak many dialects of computer, but mostly Rust, Swift, and TypeScript. I like learning stuff about the world. I currently work @Benchify, making code run right, and @toastclub, making tools for an older internet.
 
                      &&&&&&&&&%%%%%%%%%%%##########(((//                                           
                      &&&&&%%%%%%%%%%%%%%##########(##(///                                          
